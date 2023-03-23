@@ -16,8 +16,10 @@ git commit -m "[message]"
 git push 
 
 
+I) all in one pull:
+cd "c:/Users/miloW/Desktop/Website New Design/mwdesign";git pull
 
-all in one
+II) all in one push:
 git add .; git commit -m "[message]";git push 
 
 
